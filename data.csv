@@ -27,7 +27,7 @@ LATITUDE;LONGITUDE;GESTORE_DENOMINAZIONE;DESCRIZIONE;ANNO;INDIRIZZO;DENOMINAZION
 38.1135965;13.3628185;Arcidiocesi di Palermo;Chiese e Oratori;1507;Via Maqueda, 159;Chiesa di San Nicolo' da Tolentino;Rinascimentale
 38.1137008;13.3628078;Comune di Palermo;Biblioteche;1507;Via Maqueda, 157;Archivio Storico Comunale;Rinascimentale
 38.1190671;13.3692133;Associazione Amici dei Musei Siciliani;Chiese e Oratori;1520;Piazzetta delle Dogane;Chiesa di Santa Maria della Catena;Gotico-catalano
-38.117665;13.3678464;Arcidiocesi di Palermo;Chiese e Oratori;1526;Piazza Marina;Chiesa di Santa Maria di Portosalvo;
+38.117665;13.3678464;Arcidiocesi di Palermo;Chiese e Oratori;1526;Piazza Marina;Chiesa di Santa Maria di Portosalvo;Rinascimentale
 38.1159196;13.3713394;Regione Siciliana;Chiese e Oratori;1542;Piazzetta dei Bianchi;Oratorio dei Bianchi;Barocco
 38.117665;13.3678464;Arcidiocesi di Palermo;Chiese e Oratori;1545;Piazza Marina;Chiesa di Santa Maria dei Miracoli;
 38.121525;13.362245;Associazione Amici dei Musei Siciliani;Chiese e Oratori;1546;Piazzetta Angelini, 1;Chiesa Santa Maria del Piliere;Barocco
@@ -71,17 +71,16 @@ LATITUDE;LONGITUDE;GESTORE_DENOMINAZIONE;DESCRIZIONE;ANNO;INDIRIZZO;DENOMINAZION
 38.117455;13.372978;Comune di Palermo;Monumenti;1846;Foro Italico Umberto I;Palchetto della Musica (Foro Italico);Neoclassico
 38.117887;13.368154;Distretto Culturale di Palermo;Giardini Pubblici e Spazi Verdi;1863;Piazza Marina;Villa Garibaldi;
 38.124311;13.354644 ;Comune di Palermo;Monumenti;1875;Piazza Castelnuovo;Palchetto della Musica (Politeama);Neoclassico
-38.1229768;13.360095;Arcidiocesi di Palermo;Chiese e Oratori;1879;Via Bentivegna, 62/b;Chiesa dei Santi Pietro e Paolo;
+38.1229768;13.360095;Arcidiocesi di Palermo;Chiese e Oratori;1879;Via Bentivegna, 62/b;Chiesa dei Santi Pietro e Paolo;Neogotico
 38.1086579;13.3807273;Comune di Palermo;Gallerie d'Arte e Musei;1886;Via Messina Marine, 32;Eco Museo Urbano (Ex Deposito Locomotive S. Erasmo);
 38.1240725;13.3517029;Distretto Culturale di Palermo;Palazzi;1895;Via Dante, 53;Palazzo Ziino;Neoclassico
 38.1667101;13.3287389;Comune di Palermo;Gallerie d'Arte e Musei;1909;Via Duca degli Abruzzi,1;"Museo Etnografico ""G. Pitrè""";
 38.1413765;13.3360137;Comune di Palermo;Giardini Pubblici e Spazi Verdi;2010;Viale Lazio;Villa Terrasi;
 38.1435222;13.3399722;Comune di Palermo;Biblioteche;2010;Viale Lazio 5;Biblioteca Comunale Verde Terrasi;
 38.1090428;13.3594834;Comune di Palermo;Giardini Pubblici e Spazi Verdi;2011;Via Agostino Catalano, 4 ;Parco Ninni Cassarà;Contemporaneo
-38.1117578;13.3597192;Arcidiocesi di Palermo;Chiese e Oratori;?1200;Via Nunzio Nasi, 18;Chiesa di San Nicolo' di Bari (all'Albergheria);
-38.1169529;13.3687926;Distretto Culturale di Palermo;Palazzi;?1500;Piazza Marina, 46;Palazzo Galletti di S. Cataldo;
-38.1056671;13.3344503;Regione Siciliana;Giardini Pubblici e Spazi Verdi;?1500;Via Francesco Speciale;Giardino di Villa Napoli;
-38.112283;13.3636649;Citt? Metropolitana di Palermo;Palazzi;?1600;Via Maqueda, 83;Palazzo Sant'Elia (Palazzo Celestri di Santa Croce);Barocco
+38.1117578;13.3597192;Arcidiocesi di Palermo;Chiese e Oratori;1292;Via Nunzio Nasi, 18;Chiesa di San Nicolo' di Bari (all'Albergheria);Gotico
+38.1169529;13.3687926;Distretto Culturale di Palermo;Palazzi;1500;Piazza Marina, 46;Palazzo Galletti di S. Cataldo;Rinascimentale,Neogotico
+38.112283;13.3636649;Citt? Metropolitana di Palermo;Palazzi;1600;Via Maqueda, 83;Palazzo Sant'Elia (Palazzo Celestri di Santa Croce);Barocco
 38.1613916;13.3253326;Comune di Palermo;Giardini Pubblici e Spazi Verdi;?1700;Via dei Quartieri, 2;Parco di Villa Niscemi;
 38.164296;13.332514;Comune di Palermo;Dimore e Ville Storiche;?1700;Piazza Niscemi;Villa Niscemi;
 38.142124;13.3359195;Comune di Palermo;Giardini Pubblici e Spazi Verdi;?1950;Viale degli Abruzzi, 1;Città dei Ragazzi;
@@ -117,14 +116,14 @@ LATITUDE;LONGITUDE;GESTORE_DENOMINAZIONE;DESCRIZIONE;ANNO;INDIRIZZO;DENOMINAZION
 38.1165913;13.368641;Regione Siciliana;Palazzi;;Via Merlo, 2;Palazzo Mirto;
 38.1104004;13.3622947;Comune di Palermo;Palazzi;;Via delle Pergole, 74;Palazzo Tarallo;
 38.1217732;13.3419946;"Fondazione ""Giuseppe Whitaker""";Giardini Pubblici e Spazi Verdi;;Via Dante Alighieri, 167;Parco di Villa Malfitano;
-38.1182029;13.3405826;Comune di Palermo;Gallerie d'Arte e Musei;;Via Paolo Gili, 4;Cantieri Culturali alla Zisa - Zona Arti Contemporanee (ZAC);
-38.1152018;13.3647759;Distretto Culturale di Palermo;Gallerie d'Arte e Musei;;Via Sant'Anna, 21;Galleria d'Arte Moderna (G.A.M);
-38.1168727;13.3713284;Regione Siciliana;Gallerie d'Arte e Musei;;Via Alloro, 4;Galleria Regionale della Sicilia - Palazzo Abatellis;Gotico-catalano
-38.1171671;13.3440297;Regione Siciliana;Gallerie d'Arte e Musei;;Piazza Guglielmo il Buono;Museo d'Arte Islamica;
-38.1207376;13.3570938;Comune di Palermo;Teatri;;Piazza Giuseppe Verdi;Teatro Massimo Vittorio Emanuele;Neoclassico
-38.1217732;13.3419946;"Fondazione ""Giuseppe Whitaker""";Dimore e Ville Storiche;;Via Dante, 167;Villa Malfitano;
-38.1056671;13.3344503;Regione Siciliana;Dimore e Ville Storiche;;Via Francesco Speciale;Villa Napoli;
-38.1210128;13.3604909;Regione Siciliana;Gallerie d'Arte e Musei;;Piazza Olivella, 24;"Museo Archeologico Regionale ""A. Salinas"" in ex Convento Padri Filippini";
+38.1182029;13.3405826;Comune di Palermo;Gallerie d'Arte e Musei;2012;Via Paolo Gili, 4;Cantieri Culturali alla Zisa - Zona Arti Contemporanee (ZAC);Contemporaneo
+38.1152018;13.3647759;Distretto Culturale di Palermo;Gallerie d'Arte e Musei;1910;Via Sant'Anna, 21;Galleria d'Arte Moderna (G.A.M);Barocco
+38.1168727;13.3713284;Regione Siciliana;Gallerie d'Arte e Musei;1954;Via Alloro, 4;Galleria Regionale della Sicilia - Palazzo Abatellis;Gotico-catalano
+38.1171671;13.3440297;Regione Siciliana;Gallerie d'Arte e Musei;1991;Piazza Guglielmo il Buono;Museo d'Arte Islamica nel castello della Zisa;Arabo-Normanno
+38.1207376;13.3570938;Comune di Palermo;Teatri;1897;Piazza Giuseppe Verdi;Teatro Massimo Vittorio Emanuele;Neoclassico
+38.1217732;13.3419946;"Fondazione ""Giuseppe Whitaker""";Dimore e Ville Storiche;1889;Via Dante, 167;Villa Malfitano;Neoclassico
+38.1056671;13.3344503;Regione Siciliana;Dimore e Ville Storiche;1200;Via Francesco Speciale;Villa Napoli;Normanno, Rinascimentale
+38.1210128;13.3604909;Regione Siciliana;Gallerie d'Arte e Musei;1814;Piazza Olivella, 24;"Museo Archeologico Regionale ""A. Salinas"" in ex Convento Padri Filippini";Barocco,Neoclassico
 38.1152018;13.3647759;Distretto Culturale di Palermo;Biblioteche;1910;Via Sant'Anna, 21;Biblioteca della Galleria d'Arte Moderna in Sant’Anna della Misericordia;Barocco
 38.1156879;13.3612671;Club Alpino italiano - Sezione della Conca d'Oro di Palermo;Zone Archeologiche;1100;Fondo Picciullo;Qanat Gesuitico Alto;Gotico
 38.1117148;13.3553418;Regione Siciliana;Zone Archeologiche;500 a.C.;Piazza Vittoria;Resti di case romane Area Archeologica Villa Bonanno;Romano
