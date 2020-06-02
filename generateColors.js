@@ -178,7 +178,7 @@ function hslToRgb(hsl) {
     return `[${Math.round(r * 255)}, ${Math.round(g * 255)}, ${Math.round(b * 255)}]`;
 }
 
-const colors1 = generateRandomColors(10);
+const colors1 = generateRandomColors(16);
 let txtColors1 = '';
 colors1.forEach((d) => {
 	txtColors1 += `${hexToRgb(d)}\n`;

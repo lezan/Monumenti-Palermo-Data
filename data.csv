@@ -49,7 +49,7 @@ LATITUDE;LONGITUDE;GESTORE_DENOMINAZIONE;TIPO_GESTORE;DESCRIZIONE;ANNO;INDIRIZZO
 38.114542;13.3606789;Associazione Culturale Progetto Zyz;Associazione;Chiese e Oratori;1601;Via Maqueda, 220;Chiesa di Santa Ninfa dei Crociferi;Rinascimentale
 38.1145461;13.3631188;Associazione Turistico Culturale Itiner'ars;Associazione;Chiese e Oratori;1480;Piazza S. Domenico;Chiesa di San Domenico;Barocco
 38.11456;13.3712693;Associazione Turistico Culturale Itiner'ars;Associazione;Chiese e Oratori;1490;Via Alloro, 27;Chiesa Santa Maria degli Angeli (detta la Gancia);Barocco
-38.1148185;13.21299;Associazione Culturale Progetto Zy;Associazione;Chiese e Oratori;1500;Piazza S. Onofrio, 20;Oratorio di S. Onofrio;Barocco
+38.1173577;13.3582453;Associazione Culturale Progetto Zy;Associazione;Chiese e Oratori;1500;Piazza S. Onofrio, 20;Oratorio di S. Onofrio;Barocco
 38.114894;13.3602612;Associazione Amici dei Musei Siciliani;Associazione;Palazzi;1576;Piazza Bologni, 18;Palazzo Bologna di Villafranca Alliata;Rinascimentale,Neoclassico,Gotico
 38.1148988;13.3599919;Associazione I-World;Associazione;Gallerie d'Arte e Musei;1509;Piazza Pretoria, 2;Palazzo Bonocore;Neoclassico
 38.1148988;13.3628624;Associazione Turistico Culturale Itiner'ars;Associazione;Chiese e Oratori;1596;Piazza Bellini;Chiesa di Santa Caterina d'Alessandria;Barocco
@@ -58,7 +58,7 @@ LATITUDE;LONGITUDE;GESTORE_DENOMINAZIONE;TIPO_GESTORE;DESCRIZIONE;ANNO;INDIRIZZO
 38.1150128;13.364133;Associazione Culturale Progetto Zyz;Associazione;Chiese e Oratori;1630;Via Giovanni da Procida, 23;Chiesa di S. Maria degli Agonizzanti;Barocco
 38.1150424;13.3692133;Associazione Amici dei Musei Siciliani;Associazione;Chiese e Oratori;1520;Piazzetta delle Dogane;Chiesa di Santa Maria della Catena;Gotico-Catalano
 38.115065;13.3534911;Associazione Amici dei Musei Siciliani;Associazione;Chiese e Oratori;1557;Piazza della Pinta;Oratorio di San Mercurio;Barocco
-38.1151775;13.3807274;Associazione Mare Memoria Viva;Associazione;Archeologia Industriale;1882;Via Messina Marine, 33;Ex Deposito Locomotive S. Erasmo;Modernismo
+38.1090132;13.3805794;Associazione Mare Memoria Viva;Associazione;Archeologia Industriale;1882;Via Messina Marine, 33;Ex Deposito Locomotive S. Erasmo;Modernismo
 38.1151775;13.374229;ANCE Palermo;Associazione;Palazzi;1800;Foro Italico Umberto I, 21;Palazzo Forcella-De Seta;Neogotico,Neoclassico
 38.1152018;13.3630608;Associazione Amici dei Musei Siciliani;Associazione;Chiese e Oratori;1570;Via dell'Immacolatella, 5;Oratorio di San Lorenzo;Barocco
 38.1152018;13.3605768;Associazione Turistico Culturale Itiner'ars;Associazione;Chiese e Oratori;1564;Piazza Casa Professa, 21;Chiesa del Gesù o di Casa Professa;Barocco
@@ -75,7 +75,7 @@ LATITUDE;LONGITUDE;GESTORE_DENOMINAZIONE;TIPO_GESTORE;DESCRIZIONE;ANNO;INDIRIZZO
 38.116049;13.3399722;Comune di Palermo;Comune;Biblioteche;2010;Viale Lazio 5;Biblioteca Comunale Verde Terrasi;Contemporaneo
 38.116213;13.3287389;Comune di Palermo;Comune;Gallerie d'Arte e Musei;1909;Via Duca degli Abruzzi,1;"Museo Etnografico ""G. Pitrè"" in Palazzina Cinese";Cinese-neoclassico
 38.1163377;13.3725477;Comune di Palermo;Comune;Chiese e Oratori;1662;Via Torremuzza;Chiesa di San Mattia dei Crociferi;Barocco
-38.1164876;13.3807273;Comune di Palermo;Comune;Gallerie d'Arte e Musei;2014;Via Messina Marine, 32;Eco Museo Urbano in Ex Deposito Locomotive S. Erasmo;Modernismo
+38.108917;13.380692;Comune di Palermo;Comune;Gallerie d'Arte e Musei;2014;Via Messina Marine, 32;Eco Museo Urbano in Ex Deposito Locomotive S. Erasmo;Modernismo
 38.1165646;13.332514;Comune di Palermo;Comune;Dimore e Ville Storiche;1700;Piazza Niscemi;Villa Niscemi;Rinascimentale
 38.1165913;13.3594834;Comune di Palermo;Comune;Giardini Pubblici e Spazi Verdi;2011;Via Agostino Catalano, 4 ;Parco Ninni Cassarà;Contemporaneo
 38.1166314;13.3360137;Comune di Palermo;Comune;Giardini Pubblici e Spazi Verdi;2010;Viale Lazio;Villa Terrasi;Contemporaneo
@@ -123,7 +123,7 @@ LATITUDE;LONGITUDE;GESTORE_DENOMINAZIONE;TIPO_GESTORE;DESCRIZIONE;ANNO;INDIRIZZO
 38.1207376;13.356349;Privato;Privato;Palazzi;1615;Via Pietro Novelli, 3;Palazzo Asmundo;Barocco
 38.1210128;13.3600792;Regione Siciliana;Regione;Gallerie d'Arte e Musei;1784;Via Vittorio Emanuele, 365;Museo d'Arte Contemporanea della Sicilia;Neoclassico
 38.1213946;13.3540243;Regione Siciliana;Regione;Giardini Pubblici e Spazi Verdi;1800;Corso Re Ruggero;Parco d'Orleans;Neoclassico
-38.121525;13.3698605;Regione Siciliana;Regione;Biblioteche;1814;Via Vittorio Emanuele, 31;Archivio di Stato;Barocco
+38.1192039;13.3697157;Regione Siciliana;Regione;Biblioteche;1814;Via Vittorio Emanuele, 31;Archivio di Stato;Barocco
 38.1217732;13.3433514;Regione Siciliana;Regione;Dimore e Ville Storiche;1902;Viale Regina Margherita, 38;Villino Florio;Liberty
 38.1217732;13.3463727;Regione Siciliana;Regione;Gallerie d'Arte e Musei;1733;Corso Calatafimi, 217;Albergo delle Povere;Neoclassico
 38.1226102;13.3579996;Regione Siciliana;Regione;Biblioteche;1872;Via Vittorio Emanuele, 429;Biblioteca Centrale della Regione Siciliana;Barocco
@@ -139,12 +139,12 @@ LATITUDE;LONGITUDE;GESTORE_DENOMINAZIONE;TIPO_GESTORE;DESCRIZIONE;ANNO;INDIRIZZO
 38.130416;13.3440297;Regione Siciliana;Regione;Gallerie d'Arte e Musei;1991;Piazza Guglielmo il Buono;Museo d'Arte Islamica nel castello della Zisa;Arabo-Normanno
 38.132347;13.348667;Regione Siciliana;Regione;Dimore e Ville Storiche;1891;Piazza Virgilio;Villino Favaloro;Liberty
 38.1326894;13.3344503;Regione Siciliana;Regione;Dimore e Ville Storiche;1200;Via Francesco Speciale;Villa Napoli;Romanico,Rinascimentale
-38.1352827;13.3713284;Regione Siciliana;Regione;Gallerie d'Arte e Musei;1954;Via Alloro, 4;Galleria Regionale della Sicilia - Palazzo Abatellis;Gotico-Catalano
-38.1413765;13.3869508;Regione Siciliana;Regione;Monumenti;1071;Vicolo Castellaccio;Castello della Favara o Maredolce;Arabo-Normanno
+38.1166119;13.3711998;Regione Siciliana;Regione;Gallerie d'Arte e Musei;1954;Via Alloro, 4;Galleria Regionale della Sicilia - Palazzo Abatellis;Gotico-Catalano
+38.0923516;13.3873985;Regione Siciliana;Regione;Monumenti;1071;Vicolo Castellaccio;Castello della Favara o Maredolce;Arabo-Normanno
 38.142124;13.368641;Regione Siciliana;Regione;Palazzi;1200;Via Merlo, 2;Palazzo Mirto;Barocco,Liberty
 38.1435222;13.3604909;Regione Siciliana;Regione;Gallerie d'Arte e Musei;1814;Piazza Olivella, 24;"Museo Archeologico Regionale ""A. Salinas"" in ex Convento Padri Filippini";Barocco,Neoclassico
 38.1497629;13.3425586;Regione Siciliana;Regione;Monumenti;1180;Corso Calatafimi,100;Cuba;Arabo-Normanno
 38.1613916;13.3445182;Regione Siciliana;Regione;Monumenti;1167;Piazza Guglielmo il Buono;Castello della Zisa;Arabo-Normanno
 38.164296;13.3579997;Regione Siciliana;Regione;Chiese e Oratori;1615;Via Vittorio Emanuele, 430;Santa Maria della Grotta al Cassaro e Collegio Massimo dei Gesuiti;Barocco
-38.1667101;13.3713394;Regione Siciliana;Regione;Chiese e Oratori;1542;Piazzetta dei Bianchi;Oratorio dei Bianchi;Barocco
+38.1154355;13.3721222;Regione Siciliana;Regione;Chiese e Oratori;1542;Piazzetta dei Vittoria Allo Spasimo;Oratorio dei Bianchi;Barocco
 38.1681297;13.3600792;Regione Siciliana;Regione;Palazzi;1784;Via Vittorio Emanuele, 365;Palazzo Belmonte Riso;Barocco

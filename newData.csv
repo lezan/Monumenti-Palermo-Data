@@ -52,6 +52,7 @@ LATITUDE,LONGITUDE,GESTORE_DENOMINAZIONE,TIPO_GESTORE,DESCRIZIONE,ANNO,INDIRIZZO
 38.1137422,13.3597036,Arcidiocesi di Palermo,Associazione,Chiese e Oratori,1344,"Piazza Santa Chiara, 11",Chiesa di Santa Chiara,Barocco,Palazzo Reale-Monte di Pietà
 38.1137422,13.362245,Associazione Amici dei Musei Siciliani,Associazione,Chiese e Oratori,1546,"Piazzetta Angelini, 1",Chiesa Santa Maria del Piliere,Barocco,Palazzo Reale-Monte di Pietà
 38.114542,13.3606789,Associazione Culturale Progetto Zyz,Associazione,Chiese e Oratori,1601,"Via Maqueda, 220",Chiesa di Santa Ninfa dei Crociferi,Rinascimentale,Palazzo Reale-Monte di Pietà
+38.1173577,13.3582453,Associazione Culturale Progetto Zy,Associazione,Chiese e Oratori,1500,"Piazza S. Onofrio, 20",Oratorio di S. Onofrio,Barocco,Palazzo Reale-Monte di Pietà
 38.114894,13.3602612,Associazione Amici dei Musei Siciliani,Associazione,Palazzi,1576,"Piazza Bologni, 18",Palazzo Bologna di Villafranca Alliata,"Rinascimentale,Neoclassico,Gotico",Palazzo Reale-Monte di Pietà
 38.1148988,13.3599919,Associazione I-World,Associazione,Gallerie d'Arte e Musei,1509,"Piazza Pretoria, 2",Palazzo Bonocore,Neoclassico,Palazzo Reale-Monte di Pietà
 38.1149143,13.3543969,Associazione Culturale Itinerari del Mediterraneo,Associazione,Chiese e Oratori,1174,"Via dei Pellegrini, 2",Chiesa di Santa Cristina La Vetere,Arabo-Normanno,Palazzo Reale-Monte di Pietà
@@ -114,7 +115,10 @@ LATITUDE,LONGITUDE,GESTORE_DENOMINAZIONE,TIPO_GESTORE,DESCRIZIONE,ANNO,INDIRIZZO
 38.1202549,13.3611887,Privato,Privato,Palazzi,1500,"Piazza Pretoria, 6",Palazzo Bordonaro,Neoclassico,Tribunali-Castellammare
 38.1206831,13.362167,Privato,Privato,Palazzi,1473,"Via Bandiera,14",Palazzo Alliata di Pietratagliata,"Gotico-Catalano,Gotico,Neoclassico,Neogotico",Tribunali-Castellammare
 38.1210128,13.3600792,Regione Siciliana,Regione,Gallerie d'Arte e Musei,1784,"Via Vittorio Emanuele, 365",Museo d'Arte Contemporanea della Sicilia,Neoclassico,Tribunali-Castellammare
+38.1192039,13.3697157,Regione Siciliana,Regione,Biblioteche,1814,"Via Vittorio Emanuele, 31",Archivio di Stato,Barocco,Tribunali-Castellammare
 38.1229768,13.3672054,Regione Siciliana,Regione,Palazzi,1495,"Via G. Garibaldi, 23",Palazzo Ajutamicristo,"Gotico-Catalano,Gotico,Rinascimentale,Barocco",Tribunali-Castellammare
+38.1166119,13.3711998,Regione Siciliana,Regione,Gallerie d'Arte e Musei,1954,"Via Alloro, 4",Galleria Regionale della Sicilia - Palazzo Abatellis,Gotico-Catalano,Tribunali-Castellammare
+38.1154355,13.3721222,Regione Siciliana,Regione,Chiese e Oratori,1542,Piazzetta dei Vittoria Allo Spasimo,Oratorio dei Bianchi,Barocco,Tribunali-Castellammare
 38.1202836,13.356350,Privato,Privato,Gallerie d'Arte e Musei,1616,"Via Pietro Novelli, 4",Museo di Palazzo Asmundo,Barocco,Politeama
 38.1207376,13.356349,Privato,Privato,Palazzi,1615,"Via Pietro Novelli, 3",Palazzo Asmundo,Barocco,Politeama
 38.1213946,13.3540243,Regione Siciliana,Regione,Giardini Pubblici e Spazi Verdi,1800,Corso Re Ruggero,Parco d'Orleans,Neoclassico,Politeama
@@ -131,10 +135,13 @@ LATITUDE,LONGITUDE,GESTORE_DENOMINAZIONE,TIPO_GESTORE,DESCRIZIONE,ANNO,INDIRIZZO
 38.1232298,13.3425586,Regione Siciliana,Regione,Zone Archeologiche,-600,"Corso Calatafimi, 100",Necropoli Punica,Punico-Romano,Noce
 38.130416,13.3440297,Regione Siciliana,Regione,Gallerie d'Arte e Musei,1991,Piazza Guglielmo il Buono,Museo d'Arte Islamica nel castello della Zisa,Arabo-Normanno,Libertà
 38.132347,13.348667,Regione Siciliana,Regione,Dimore e Ville Storiche,1891,Piazza Virgilio,Villino Favaloro,Liberty,Libertà
+38.1090132,13.3805794,Associazione Mare Memoria Viva,Associazione,Archeologia Industriale,1882,"Via Messina Marine, 33",Ex Deposito Locomotive S. Erasmo,Modernismo,Settecannoli
+38.108917,13.380692,Comune di Palermo,Comune,Gallerie d'Arte e Musei,2014,"Via Messina Marine, 32",Eco Museo Urbano in Ex Deposito Locomotive S. Erasmo,Modernismo,Settecannoli
 38.1090428,13.3531771,Arcidiocesi di Palermo,Arcidiocesi,Chiese e Oratori,1607,"Via del Noviziato, 1",Chiesa di San Stanislao Kostka,Barocco,Cuba-Calatafimi
 38.112283,13.3519929,Arcidiocesi di Palermo,Arcidiocesi,Chiese e Oratori,1750,"Via delle Cappuccinelle, 109",Chiesa del Monastero delle Cappuccinelle,Barocco,Cuba-Calatafimi
 38.07025,13.365195,Arcidiocesi di Palermo,Arcidiocesi,Chiese e Oratori,1632,Piazza Sant'Anna,Chiesa di Sant'Anna La Misericordia,Barocco,Villagrazia-Falsomiele
 38.0926085,13.3813949,Arcidiocesi di Palermo,Arcidiocesi,Chiese e Oratori,1071,"Via Salvatore Cappello, 38",Chiesa di San Giovanni dei Lebbrosi,Arabo-Normanno,Brancaccio-Ciaculli
+38.0923516,13.3873985,Regione Siciliana,Regione,Monumenti,1071,Vicolo Castellaccio,Castello della Favara o Maredolce,Arabo-Normanno,Brancaccio-Ciaculli
 38.128591,13.3343745,Regione Siciliana,Regione,Monumenti,1184,Via di Villa Napoli,Cubola,Arabo-Normanno,Malaspina-Palagonia
 38.1326894,13.3344503,Regione Siciliana,Regione,Dimore e Ville Storiche,1200,Via Francesco Speciale,Villa Napoli,"Romanico,Rinascimentale",Malaspina-Palagonia
 38.126556,13.3289359,Regione Siciliana,Regione,Palazzi,1799,"Via Duca degli Abruzzi, 1",Palazzina Cinese,Cinese-neoclassico,Uditore-Passo di Rigano

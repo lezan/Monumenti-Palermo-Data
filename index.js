@@ -10,14 +10,11 @@ const addProperties = (geoJson, area) => {
 	Object.entries(area).forEach(([key, value]) => {
 		for (let d = 0; d < localGeoJson.features.length; d += 1) {
 			if (localGeoJson.features[d].properties.quartiere === key) {
-				console.log('pass');
 				localGeoJson.features[d].properties.monumenti = value;
 				break;
 			}
 		}
 	});
-
-	console.log('quartieri: ', localGeoJson);
 
 	writeFileSync('./newQuartieri.json', JSON.stringify(localGeoJson));
 };
@@ -30,6 +27,7 @@ readFile('./data.csv', async (err1, importData) => {
 	}
 
 	const data = await neatCsv(importData, { separator: ';' });
+	console.log(data.length);
 
 	readFile('./quartieri.json', async (err2, importGeoJson) => {
 		if (err2) {
@@ -41,9 +39,13 @@ readFile('./data.csv', async (err1, importData) => {
 
 		const newData = [];
 
+		let inserted = 0;
+		const inArr = [];
+
 		const result = [];
 		geoJson.features.forEach((areas) => {
 			const area = turf.multiPolygon(areas.geometry.coordinates);
+
 			data.forEach((d) => {
 				const point = turf.point([+d.LONGITUDE, +d.LATITUDE]);
 				if (turf.booleanPointInPolygon(point, area)) {
@@ -53,15 +55,21 @@ readFile('./data.csv', async (err1, importData) => {
 						...d,
 						quartiere: areas.properties.quartiere,
 					}));
+
+					inserted += 1;
+					inArr.push(d);
 				}
 			});
 		});
+
+		console.log(inserted);
+		const difference = data.filter(x => !inArr.includes(x));
+		console.log(difference);
 
 		const newCsvData = new ObjectsToCsv(newData);
 		await newCsvData.toDisk('./newData.csv');
 
 		const resultCount = _.countBy(result);
-		console.log('result: ', resultCount);
 		addProperties(geoJson, resultCount);
 	});
 });
