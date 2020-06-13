@@ -66,6 +66,8 @@ readFile('./data.csv', async (err1, importData) => {
 		const difference = data.filter(x => !inArr.includes(x));
 		console.log(difference);
 
+		newData.sort((a, b) => a.ANNO - b.ANNO);
+
 		const newCsvData = new ObjectsToCsv(newData);
 		await newCsvData.toDisk('./newData.csv');
 
